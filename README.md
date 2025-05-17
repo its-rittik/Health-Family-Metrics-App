@@ -132,16 +132,3 @@ Use these test credentials to log in:
 - **Troubleshooting:** Check your internet or re-login if errors appear.
 
 ---
-
-## 📬 Support
-
-For help, contact the developer or support team.
-
----
-
-## 🗂 How to Show Images on GitHub
-
-- Place all screenshots in a folder named `screenshots/`
-- Reference them like this:
-  ```md
-  ![Alt Text](screenshots/filename.png)
