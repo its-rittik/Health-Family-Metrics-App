@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641224508831",
+    "project_id": "family-health-tracker-b8c3b",
+    "storage_bucket": "family-health-tracker-b8c3b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641224508831:android:93097b51aa797e725729aa",
+        "android_client_info": {
+          "package_name": "com.rittik.healthtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtfJ0Mgxyr1wnmkJSj4sU_qIS8J938zeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
