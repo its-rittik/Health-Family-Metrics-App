@@ -79,13 +79,13 @@ Use these test credentials to log in:
 ### 7-Day Steps Graph  
 ![7-Day Graph](screenshots/img_9.png)
 
-### 15-Day Steps Graph  
+  
 ![15-Day Graph](screenshots/img_8.png)
 
-### 1-Month Graph with Comparison  
+ ### 15-Day Steps Graph
 ![1-Month Graph](screenshots/img_10.png)
 
-### Select Family Member  
+### 1-Month Graph with Comparison 
 ![Select Member](screenshots/img_11.png)
 
 ---
