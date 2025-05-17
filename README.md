@@ -117,10 +117,10 @@ Use these test credentials to log in:
 ### Settings Screen  
 ![Settings](screenshots/img_16.png)
 
-### Edit Name Dialog  
+### Edit Email Dialog  
 ![Edit Name](screenshots/img_17.png)
 
-### Edit Email Dialog  
+### Reset Password Dialog  
 ![Edit Email](screenshots/img_18.png)
 
 ---
